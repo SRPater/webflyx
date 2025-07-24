@@ -1,4 +1,4 @@
-- "May the force with you"
+- "May the Force with you"
 - "I find your lack of faith disturbing"
 - "I am your father"
 - "Do or do not. There is no try"
